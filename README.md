@@ -1,9 +1,9 @@
 ## Assignment of the Research Track 2 course 
- GINNE VIKAS REDDY (matricola 5061211)
+ Nagalakunta Sumanth (matricola 5065491)
 
 use the link to access the documentation
 
-https://vikasreddy636.github.io/rt2_assignment1/
+https://github.com/sumanth108-bit/rt2_assignment1
 
 
 
